@@ -80,7 +80,7 @@ You can also modify the Artado Search interface by injecting custom HTML or alte
 
 Here are a few example extensions developed by the Artado community:
 
-- [**New Year Countdown**](https://www.artadosearch.com/Workshop/76): Countdown for New Year.
+- [**SecimCountdown**](https://www.artadosearch.com/Workshop/55): A countdown for the local elections of Turkey in 2024.
 - [**Dictionary Widget**](https://www.artadosearch.com/Workshop/64): A dictionary widget extension for Artado Search 
 - [**What is my IP**](https://www.artadosearch.com/Workshop/65): What is my IP" widget for searches like "whats my ip"
 
