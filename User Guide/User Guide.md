@@ -131,7 +131,7 @@ Artado is a community-driven project, and there are many ways you can contribute
 
 ## FAQ
 
-Visit the [FAQ](faq.md) section to find answers to common questions about using Artado Search.
+Visit the [FAQ](/faq.md) section to find answers to common questions about using Artado Search.
 
 ## Getting Help
 
