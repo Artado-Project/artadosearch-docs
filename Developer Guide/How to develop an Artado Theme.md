@@ -1,4 +1,4 @@
-# Artado Themes
+# How to develop an Artado Theme
 
 This page will show you how to create a theme for [Artado Search](https://www.artadosearch.com).
 
