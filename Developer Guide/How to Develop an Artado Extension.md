@@ -80,9 +80,9 @@ You can also modify the Artado Search interface by injecting custom HTML or alte
 
 Here are a few example extensions developed by the Artado community:
 
-- **Quick Translate**: Automatically translates search results into the user’s preferred language.
-- **Dark Mode Toggle**: Adds a button to toggle between light and dark modes.
-- **Search History Tracker**: Logs and displays the user's search history within Artado.
+- [**New Year Countdown**](https://www.artadosearch.com/Workshop/76): Countdown for New Year.
+- [**Dictionary Widget**](https://www.artadosearch.com/Workshop/64): A dictionary widget extension for Artado Search 
+- [**What is my IP**](https://www.artadosearch.com/Workshop/65): What is my IP" widget for searches like "whats my ip"
 
 ## Learn More
 
