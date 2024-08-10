@@ -13,7 +13,7 @@ Welcome to the Artado Search User Guide! This documentation is designed to help 
    - [Themes](#themes)
    - [Extensions](#extensions)
 4. [Managing Your Search Preferences](#managing-your-search-preferences)
-   - [Setting Search Preferences](#setting-preferences)
+   - [Setting Preferences](#setting-preferences)
    - [Saving Search Settings](#saving-search-settings)
 5. [Using Artado Proxies](#using-artado-proxies)
 6. [Contributing to Artado](#contributing-to-artado)
