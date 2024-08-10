@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 ### 2. Prepare Your Application
 
 1. **Build the Application**:
-   - Open your Artado Search solution in Visual Studio.
+   - Open your Artado Search solution in MonoDevelop.
    - Build the solution to create the deployable files.
 
 2. **Publish the Application**:
