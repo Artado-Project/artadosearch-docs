@@ -1,90 +1,155 @@
-# How to develop an Artado Theme
+# How to Develop an Artado Theme
 
-This page will show you how to create a theme for [Artado Search](https://www.artadosearch.com).
+This guide will walk you through the process of creating a custom theme for [Artado Search](https://www.artadosearch.com). Whether you're new to CSS or a seasoned developer, you'll find the steps and tips you need to design a unique look for Artado.
 
 ## Getting Started
 
-You will need a CSS file for using themes. You can use [Stylus Editor](https://add0n.com/stylus.html) to test your theme live while creating it.
+To create a theme for Artado Search, you'll primarily be working with CSS. You can use the [Stylus Editor](https://add0n.com/stylus.html) to test your theme live as you create it, allowing you to see changes in real-time.
 
-To access Stylus Editor, click on the extensions icon and press "Manage" button.
-Then press "Write New Style" button and you can start creating themes.
-Change "Applies to" setting to only for Artado Search, otherwise your theme will be applied to every website.
+### Installing Stylus Editor
+
+1. **Install Stylus**: First, install the Stylus browser extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
+2. **Access Stylus Editor**:
+   - Click the Stylus icon in your browser's toolbar.
+   - Select **Manage** to access your styles.
+   - Press **Write New Style** to start creating your theme.
+
+### Setting Up Your Theme
+
+- **Target Artado Search**: In the Stylus Editor, change the "Applies to" setting to only apply your CSS to `https://www.artadosearch.com`. This ensures that your theme is applied only to Artado Search and not to every website you visit.
 
 ## Basics
 
-### Add a background image
+### Adding a Background Image
 
-If you want your image to appear only on main page:
+Customizing the background is a great way to set the tone of your theme.
 
-```
+#### Main Page Background
+
+To add a background image that only appears on the main search page:
+
+```css
 #homepage {
     background: url("Image link") no-repeat center fixed;
-    -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 ```
 
-If you want your picture to appear on other pages (search results, settings etc.):
+#### Global Background
 
-```
+To apply the background image to all pages, including search results and settings:
+
+```css
 body {
-    background-image: url("Image link")
+    background-image: url("Image link");
 }
 ```
 
+### Customizing the Search Bar
 
-### Modify search bar
+The search bar is one of the most prominent elements on the page. Here’s how to customize it:
 
-#### Search Bar
-```
-#searchbar{
-    margin-bottom:200px;
-    width: 550px !important;    /* Be sure its same with Auto Complate List's width */
-    border-radius: 10px;        /* Smooth corners */
+#### Search Bar Container
+
+```css
+#searchbar {
+    margin-bottom: 200px;
+    width: 550px !important;   /* Ensure it matches the Auto Complete List's width */
+    border-radius: 10px;       /* Smooth corners */
 }
 ```
 
-#### Input Section
-```
-#searchinput{
-    background-color:rgb(0, 0, 0);  /* Color of the input section */
+#### Search Input Section
+
+```css
+#searchinput {
+    background-color: rgb(0, 0, 0);  /* Input field background color */
+    color: rgb(255, 255, 255);       /* Text color */
 }
 ```
 
 #### Search Button
-```
-#searchbutton{
- color:rgb(255, 255, 255);          /* Color of magnifier */
- background-color:rgb(0, 0, 0);     /* Magnifier's background color */
+
+```css
+#searchbutton {
+    color: rgb(255, 255, 255);       /* Color of the magnifier icon */
+    background-color: rgb(0, 0, 0);  /* Button background color */
 }
 ```
 
+### Customizing the Bottom Bar
 
-### Modify bottom bar
+The bottom bar can be styled to complement the overall theme:
 
-
-```
-#features .flex-wrap{
-    padding-bottom:20px;       /* Change the amount of pixels */
-    padding-top:20px;          /* And find the best for you */
-    color:#fff;                /* Text color */
-    background-color:#000;     /* Background Color */
+```css
+#features .flex-wrap {
+    padding-bottom: 20px;        /* Adjust the padding to your liking */
+    padding-top: 20px;
+    color: #fff;                 /* Text color */
+    background-color: #000;      /* Background color */
 }
 ```
 
+### Advanced Customizations
 
-## Example themes
+#### Hover Effects
 
+To add hover effects for interactive elements:
 
-This themes created by Artado Community and you can check them for more information!
+```css
+#searchbutton:hover {
+    background-color: rgb(255, 165, 0); /* Change button color on hover */
+    color: #000;                         /* Change text/icon color on hover */
+}
+```
+
+#### Typography
+
+To customize the font and text styles:
+
+```css
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #333;  /* Base text color */
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    color: #444;
+}
+```
+
+### Example Themes
+
+Explore these example themes created by the Artado community for inspiration and learning:
 
 - [Merkür Theme](https://github.com/KerimCan05/merkur-artadotheme/)
 - [Atatürk Theme](https://github.com/KerimCan05/ataturk-artadorheme/)
 - [HereUS UI 3.1](https://github.com/islekcaganmert/artado-hereus-ui-3.1-theme)
 
-## Learn more
+### Testing and Debugging
 
-This is just the beginning. If you want to create great themes, you most go deeper in the world of CSS. You can learn more about CSS from [W3Schools](https://www.w3schools.com/css/default.asp).
+While working on your theme, use browser developer tools (`F12` or `Ctrl+Shift+I`) to inspect elements, test CSS changes, and troubleshoot any issues.
 
-## Upload your themes
+## Learn More
 
-You can share your themes from [Artado Devs](https://devs.artado.xyz/). Create an account an start uploading.
+This is just the beginning. If you're interested in creating more sophisticated themes, dive deeper into the world of CSS:
+
+- [CSS Basics](https://www.w3schools.com/css/css_intro.asp) - A great starting point if you're new to CSS.
+- [CSS Tricks](https://css-tricks.com/) - Advanced techniques and tips for improving your styles.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - Comprehensive resource for CSS properties and best practices.
+
+## Upload Your Themes
+
+Once you've created your theme, share it with the community! You can upload your theme on [Artado Devs](https://devs.artado.xyz/):
+
+1. **Create an Account**: Sign up or log in to Artado Devs.
+2. **Upload Your Theme**: Navigate to the upload section, provide a description, and share your creation with the world.
+
+---
+
+This guide should give you a strong foundation for creating and sharing custom themes for Artado Search. Have fun experimenting with different styles and making Artado Search your own!
