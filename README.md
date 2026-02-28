@@ -125,7 +125,3 @@ We welcome all contributions to improve our documentation:
 * **Email (Support):** [sxi@artadosearch.com](mailto:sxi@artadosearch.com)
 
 **Thank you for contributing to Artado Search and helping build a more private web!**
-
----
-
-**Başka bir isteğin var mı? GitHub README için bu yapı oldukça profesyonel duracaktır.**
