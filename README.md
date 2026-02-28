@@ -1,17 +1,18 @@
 #  Artado Search Documentation / Dokümantasyon
 
 ##  İçindekiler / Table of Contents
-
-1. [TR: Önemli Duyuru](https://www.google.com/search?q=%23-%C3%B6nemli-duyuru-g%C3%BCncel-belgeler-ta%C5%9Findi)
-2. [TR: Hakkında](https://www.google.com/search?q=%23-hakkinda-about)
-3. [TR: Yapı ve İçerik](https://www.google.com/search?q=%23-yapi-ve-i%CC%87%C3%A7erik-structure)
-4. [TR: Yol Haritası](https://www.google.com/search?q=%23-yol-haritasi-roadmap)
-5. [TR: İletişim](https://www.google.com/search?q=%23-i%CC%87leti%CC%87%C5%9Fi%CC%87m-contact)
-6. [EN: Important Announcement](https://www.google.com/search?q=%23-important-announcement-docs-moved)
-7. [EN: About](https://www.google.com/search?q=%23-about)
-8. [EN: Structure](https://www.google.com/search?q=%23-structure)
-9. [EN: Roadmap](https://www.google.com/search?q=%23-roadmap)
-10. [EN: Contact](https://www.google.com/search?q=%23-contact-1)
+* [ TR: Önemli Duyuru](#-önemli̇-duyuru-güncel-belgeler-taşindi)
+* [ TR: Hakkında](#-hakkinda-about)
+* [ TR: Yapı ve İçerik](#-yapi-ve-i̇çeri̇k-structure)
+* [ TR: Katkıda Bulunma](#-dokümantasyona-katkida-bulunma)
+* [ TR: Yol Haritası](#-yol-hari̇tasi-roadmap)
+* [ TR: İletişim](#-i̇leti̇şi̇m-contact)
+* [ EN: Important Announcement](#-important-announcement-docs-moved)
+* [ EN: About](#-about)
+* [ EN: Structure](#-structure)
+* [ EN: Contributing](#-contributing-to-documentation)
+* [ EN: Roadmap](#-roadmap)
+* [ EN: Contact](#-contact-1)
 
 ---
 
