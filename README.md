@@ -19,10 +19,10 @@ Bu depo, gizlilik odaklı ve açık kaynaklı bir arama motoru olan **Artado Sea
 
 Dokümantasyon sistemimiz şu temel bölümlerden oluşmaktadır:
 
-* ** Başlarken (Getting Started):** Artado Search'ü kurmak ve kullanmaya başlamak için temel talimatlar.
-* ** Kullanıcı Kılavuzu (User Guide):** Özellikler, ipuçları ve en iyi kullanım uygulamaları hakkında detaylı bilgiler.
-* ** Geliştirici Rehberi (Developer Guide):** Kurulum talimatları, kodlama standartları ve API dokümantasyonu.
-* ** SSS (FAQ):** Sıkça sorulan sorular ve yanıtları.
+* **Başlarken (Getting Started)**: Artado Search'ü kurmak ve kullanmaya başlamak için temel talimatlar.
+* **Kullanıcı Kılavuzu (User Guide):** Özellikler, ipuçları ve en iyi kullanım uygulamaları hakkında detaylı bilgiler.
+* **Geliştirici Rehberi (Developer Guide):** Kurulum talimatları, kodlama standartları ve API dokümantasyonu.
+* **SSS (FAQ):** Sıkça sorulan sorular ve yanıtları.
 
 ---
 
