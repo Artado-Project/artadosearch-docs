@@ -1,18 +1,18 @@
 #  Artado Search Documentation / Dokümantasyon
 
 ##  İçindekiler / Table of Contents
-* [ TR: Önemli Duyuru](#-önemli̇-duyuru-güncel-belgeler-taşindi)
-* [ TR: Hakkında](#-hakkinda-about)
-* [ TR: Yapı ve İçerik](#-yapi-ve-i̇çeri̇k-structure)
-* [ TR: Katkıda Bulunma](#-dokümantasyona-katkida-bulunma)
-* [ TR: Yol Haritası](#-yol-hari̇tasi-roadmap)
-* [ TR: İletişim](#-i̇leti̇şi̇m-contact)
-* [ EN: Important Announcement](#-important-announcement-docs-moved)
-* [ EN: About](#-about)
-* [ EN: Structure](#-structure)
-* [ EN: Contributing](#-contributing-to-documentation)
-* [ EN: Roadmap](#-roadmap)
-* [ EN: Contact](#-contact-1)
+* [ TR: Önemli Duyuru](#önemli̇-duyuru-güncel-belgeler-taşindi)
+* [ TR: Hakkında](#hakkinda-about)
+* [ TR: Yapı ve İçerik](#yapi-ve-i̇çeri̇k-structure)
+* [ TR: Katkıda Bulunma](#dokümantasyona-katkida-bulunma)
+* [ TR: Yol Haritası](#yol-hari̇tasi-roadmap)
+* [ TR: İletişim](#i̇leti̇şi̇m-contact)
+* [ EN: Important Announcement](#important-announcement-docs-moved)
+* [ EN: About](#about)
+* [ EN: Structure](#structure)
+* [ EN: Contributing](#contributing-to-documentation)
+* [ EN: Roadmap](#roadmap)
+* [ EN: Contact](#contact-1)
 
 ---
 
