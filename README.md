@@ -16,11 +16,11 @@
 
 ---
 
-## 🚀 ÖNEMLİ DUYURU: GÜNCEL BELGELER TAŞINDI!
+##  ÖNEMLİ DUYURU: GÜNCEL BELGELER TAŞINDI!
 
 Tüm güncel rehberler, teknik detaylar ve topluluk katkıları artık yeni adresimizde:
 
-## 🌐 [docs.artado.xyz](https://www.google.com/search?q=https://docs.artado.xyz/)
+##  [docs.artado.xyz](https://www.google.com/search?q=https://docs.artado.xyz/)
 
 *Lütfen en güncel bilgiler için yukarıdaki bağlantıyı kullanın.*
 
@@ -56,7 +56,7 @@ Belgelerimizi geliştirmek için yapacağınız her türlü katkıyı memnuniyet
 | Aşama | Hedef | Durum |
 | --- | --- | --- |
 | **1. Aşama** | Depodaki mevcut belgelerin güncellenmesi ve bakımı. | ✅ Tamamlandı |
-| **2. Aşama** | Tüm içeriğin DokuWiki tabanlı web sitesine taşınması. | ✅ Tamamlandı |
+| **2. Aşama** | Tüm içeriğin Artado tabanlı web sitesine taşınması. | ✅ Tamamlandı |
 | **3. Aşama** | Web sitesinin bakımı ve sürekli güncel tutulması. | 🔄 Devam Ediyor |
 
 ---
@@ -73,11 +73,11 @@ Belgelerimizi geliştirmek için yapacağınız her türlü katkıyı memnuniyet
 
 ---
 
-## 🚀 IMPORTANT ANNOUNCEMENT: DOCS MOVED!
+##  IMPORTANT ANNOUNCEMENT: DOCS MOVED!
 
 All up-to-date guides, technical details, and community contributions are now located at our new address:
 
-## 🌐 [docs.artado.xyz](https://www.google.com/search?q=https://docs.artado.xyz/)
+##  [docs.artado.xyz](https://www.google.com/search?q=https://docs.artado.xyz/)
 
 *Please use the link above for the most current information.*
 
@@ -113,7 +113,7 @@ We welcome all contributions to improve our documentation:
 | Phase | Goal | Status |
 | --- | --- | --- |
 | **Phase 1** | Maintenance and updates of existing repository docs. | ✅ Completed |
-| **Phase 2** | Migration of all content to the DokuWiki website. | ✅ Completed |
+| **Phase 2** | Migration of all content to the Artado Docs website. | ✅ Completed |
 | **Phase 3** | Maintenance and continuous updates of the website. | 🔄 In Progress |
 
 ---
